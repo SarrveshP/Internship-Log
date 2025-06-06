@@ -3,6 +3,14 @@
 This is a web-based financial management tool for tracking budget allocations and transactions across multiple divisions. The system is built using **HTML/CSS/JavaScript** for the frontend with **client-side storage**.
 
 ---
+# Day 4 Report  
+
+**Intern Name:** Sarvesh Patil  
+**Date:** 06/06/25  
+**Department:** IT Department  
+**Supervisors:** Abhishek  
+
+---
 
 ## 📌 Key Features
 
