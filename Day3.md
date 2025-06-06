@@ -4,7 +4,7 @@
 This is a web-based internal tool for managing production lines at ADF Foods Limited. The system is built using **Python Flask** for the backend and **HTML/CSS with Bootstrap** for the frontend UI.
 
 ---
-# Day 2 Report  
+# Day 3 Report  
 
 **Intern Name:** Sarvesh Patil  
 **Date:** 04/06/25  
