@@ -1,10 +1,14 @@
 # 🧾 IT Budget Management System – Day Report & Learning Log
 
-## 📅 Metadata
-- **Date:** 2025-06-04  
-- **Developer:** Sarvesh Patil  
-- **Project:** IT Budget Management System  
+---
+# Day 2 Report  
 
+**Intern Name:** Sarvesh Patil  
+**Date:** 04/06/25  
+**Department:** IT Department  
+**Supervisors:** Abhishek  
+
+---
 ## 🧠 Learning Intent
 > *"This is the exoskeleton of the code framework, which is properly integrated with the organization’s software environment. It reflects a practical learning implementation that I am sharing as part of my real-world development practice."*
 
